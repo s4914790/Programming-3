@@ -16,6 +16,8 @@
 
 #include "boxcollider.h"
 
+// Original base code by Jon Macey NGL Demos. Shader base code by Jon Macey and Richard
+
 constexpr auto shaderProgram = "PBR";
 constexpr auto vertexShader  = "PBRVertex";
 constexpr auto fragShader    = "PBRFragment";
